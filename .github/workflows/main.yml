@@ -22,4 +22,4 @@ jobs:
           username: RestroReff
           password: ${{ secrets.PROD_FTP_PASSWORD}}
           local_dir: "/testFTP.html"
-          remote_dir: "https://restroreff.microlent.com/poc/"
+          remote_dir: "https://restroreff.microlent.com/poc"
